@@ -1,0 +1,115 @@
+mint-artwork-mate (1.1.8) qiana; urgency=low
+
+  * [59684a7] Add tap-to-click
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 20 May 2014 16:00:29 +0200
+
+mint-artwork-mate (1.1.7) qiana; urgency=low
+
+  * [ab55124] Move notification theme from coco to standard
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 20 May 2014 14:31:06 +0200
+
+mint-artwork-mate (1.1.6) qiana; urgency=low
+
+  * Disable animations
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 20 May 2014 14:06:06 +0200
+
+mint-artwork-mate (1.1.5) qiana; urgency=low
+
+  * Removed useless default-mate-panel.dist
+  * Add linuxmint panel override
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 20 May 2014 14:05:32 +0200
+
+mint-artwork-mate (1.1.4) olivia; urgency=low
+
+  * Buttons don't have icons by default..
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 07 May 2013 21:31:45 +0100
+
+mint-artwork-mate (1.1.3) olivia; urgency=low
+
+  * Set org.mate.interface font-name to Sans 9
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 06 May 2013 17:48:13 +0100
+
+mint-artwork-mate (1.1.2) olivia; urgency=low
+
+  * Replaced mate menu with mintmenu by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 13 Mar 2013 16:00:37 +0000
+
+mint-artwork-mate (1.1.1) olivia; urgency=low
+
+  * Migrated to gsettings and new configs for MATE 1.6
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 13 Mar 2013 12:15:25 +0000
+
+mint-artwork-mate (1.1.0) nadia; urgency=low
+
+  * Set mate-notification-daemon default values
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 15 Nov 2012 11:20:47 +0000
+
+mint-artwork-mate (1.0.9) nadia; urgency=low
+
+  * Changed default GTK3 font size to 9
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 04 Nov 2012 11:41:46 +0000
+
+mint-artwork-mate (1.0.8) maya; urgency=low
+
+  * Removed dep on mint-artwork-gnome
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 11 Sep 2012 16:09:38 +0100
+
+mint-artwork-mate (1.0.7) maya; urgency=low
+
+  * Fixed type error: Changed dpi setting from int to float
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 12 May 2012 20:11:59 +0100
+
+mint-artwork-mate (1.0.6) maya; urgency=low
+
+  * Defined default font rendering/hinting
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 12 May 2012 18:12:30 +0100
+
+mint-artwork-mate (1.0.5) maya; urgency=low
+
+  * Trash not visible by default
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 07 May 2012 17:00:06 +0100
+
+mint-artwork-mate (1.0.4) maya; urgency=low
+
+  * Changed default theme to Mint-X
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 05 May 2012 12:39:58 +0100
+
+mint-artwork-mate (1.0.3) lisa; urgency=low
+
+  * Changed theme to Mint-Z-Mate
+
+ -- Clement Lefebvre <clem@linuxmint.com>  Thu,  24 Nov 2011 16:53:00 +0000
+
+mint-artwork-mate (1.0.2) lisa; urgency=low
+
+  * Changed theme to Carbon (Mint-X and murrine have a problem with MATE which makes the panel disappear)
+
+ -- Clement Lefebvre <clem@linuxmint.com>  Wed,  9 Nov 2011 11:46:00 +0000
+
+mint-artwork-mate (1.0.1) lisa; urgency=low
+
+  * Changed icons and theme to Mint-X and Mint-X-Metal
+
+ -- Clement Lefebvre <clem@linuxmint.com>  Mon,  7 Nov 2011 11:17:00 +0000
+
+mint-artwork-mate (1.0.0) lisa; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <clem@linuxmint.com>  Mon,  7 Nov 2011 11:17:00 +0000
+

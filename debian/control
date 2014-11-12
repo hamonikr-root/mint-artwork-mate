@@ -1,0 +1,11 @@
+Source: mint-artwork-mate
+Section: admin
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mint-artwork-mate
+Architecture: all
+Description: Default artwork for MATE
+ Default artwork for MATE
